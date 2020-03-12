@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{53278921-57A9-4424-947F-F361EB711FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53278921-57A9-4424-947F-F361EB711FB0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{53278921-57A9-4424-947F-F361EB711FB0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{53278921-57A9-4424-947F-F361EB711FB0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{53278921-57A9-4424-947F-F361EB711FB0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
