@@ -32,6 +32,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Animal\Animal.cs" />
+    <Compile Include="Animal\Dog.cs" />
+    <Compile Include="Animal\Cat.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Animal\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
